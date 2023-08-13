@@ -39,7 +39,7 @@ a{
 }
 
 header{
-    background: url('/assets/yo-pantalla.png');
+    background: url('../assets/yo-pantalla.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
